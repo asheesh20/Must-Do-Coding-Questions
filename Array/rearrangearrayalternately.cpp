@@ -43,7 +43,7 @@ int main()
 	return 0; 
 } 
 
-2nd Approach :
+2nd Approach (Easy) :
 
 #include <bits/stdc++.h>
 using namespace std;
